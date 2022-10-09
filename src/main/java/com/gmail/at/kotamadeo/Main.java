@@ -11,6 +11,4 @@ public class Main {
         textAnalyzer.findMaxLetterValue('c');
         textAnalyzer.findMaxLetterValue('d');
     }
-
-
 }
